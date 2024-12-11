@@ -41,7 +41,7 @@ Watch the game in action:
 If you’d like to run the game locally:  
 1. Clone the repository:  
    ```bash  
-   git clone https://github.com/Taras-P-Kob/Game-Color-Resonance.git  
+   git clone https://github.com/roman-zvir/Game-Color-Resonance.git  
    ```  
 2. Navigate to the project directory:  
    ```bash  
@@ -73,7 +73,7 @@ Contributions are welcome! To contribute:
 3. Submit a pull request with a detailed explanation of your changes.  
 
 ### Reporting Issues  
-If you encounter a bug or have suggestions, please open an issue [here](https://github.com/Taras-P-Kob/Game-Color-Resonance/issues).  
+If you encounter a bug or have suggestions, please open an issue [here](https://github.com/roman-zvir/Game-Color-Resonance/issues).  
 
 ---
 
@@ -97,8 +97,8 @@ This project is licensed under the MIT License. See the [LICENSE](LICENSE) file 
 
 ## 🌐 Connect  
 For any questions or collaborations, feel free to reach out:  
-- **Repository Owner**: [Taras P. Kob](https://github.com/Taras-P-Kob)  
-- **Feedback & Support**: [Open an Issue](https://github.com/Taras-P-Kob/Game-Color-Resonance/issues)  
+- **Repository Owner**: [Taras P. Kob](https://github.com/roman-zvir)  
+- **Feedback & Support**: [Open an Issue](https://github.com/roman-zvir/Game-Color-Resonance/issues)  
 
 ---  
 
