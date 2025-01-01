@@ -41,11 +41,11 @@ Watch the game in action:
 If you’d like to run the game locally:  
 1. Clone the repository:  
    ```bash  
-   git clone https://github.com/roman-zvir/Game-Color-Resonance.git  
+   git clone https://github.com/roman-zvir/game-color-resonance.git  
    ```  
 2. Navigate to the project directory:  
    ```bash  
-   cd Game-Color-Resonance  
+   cd game-color-resonance  
    ```  
 3. Open `index.html` in your browser.  
 
